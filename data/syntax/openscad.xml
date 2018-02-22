@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE language SYSTEM "language.dtd">
 
-<language name="OpenSCAD" version="1" kateversion="5.0" section="Other" extensions="*.scad" mimetype="text/x-openscad-src" priority="1" casesensitive="1" author="Julian Stirling (julian@julianstirling.co.uk)" license="GPL">
+<language name="OpenSCAD" version="1" kateversion="5.0" section="Other" extensions="*.scad" mimetype="text/x-openscad-src" priority="1" casesensitive="1" author="Julian Stirling (julian@julianstirling.co.uk)" license="MIT">
     <highlighting>
         
         <list name="preprocessor">
